@@ -20,7 +20,7 @@ The most significant predictors for stroke were found to be:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/stroke-prediction-analysis.git](https://github.com/your-username/stroke-prediction-analysis.git)
+    git clone [https://github.com/RajuNS/stroke-prediction-analysis.git](https://github.com/RajuNS/stroke-prediction-analysis.git)
     ```
 2.  **Navigate into the project directory:**
     ```bash
